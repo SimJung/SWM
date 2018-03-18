@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankAttack Templet", "TankAttack Templet.csproj", "{BC45FEBB-9A2D-CF91-C3A9-5EA8B499CF71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankAttack Templet.Plugins", "TankAttack Templet.Plugins.csproj", "{05093D64-AD98-D044-1AA3-3D96E9B7B9F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankAttack Templet.Editor", "TankAttack Templet.Editor.csproj", "{E2C111A4-991A-795D-73B1-4971A4E23378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC45FEBB-9A2D-CF91-C3A9-5EA8B499CF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC45FEBB-9A2D-CF91-C3A9-5EA8B499CF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC45FEBB-9A2D-CF91-C3A9-5EA8B499CF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC45FEBB-9A2D-CF91-C3A9-5EA8B499CF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05093D64-AD98-D044-1AA3-3D96E9B7B9F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05093D64-AD98-D044-1AA3-3D96E9B7B9F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05093D64-AD98-D044-1AA3-3D96E9B7B9F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05093D64-AD98-D044-1AA3-3D96E9B7B9F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C111A4-991A-795D-73B1-4971A4E23378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C111A4-991A-795D-73B1-4971A4E23378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C111A4-991A-795D-73B1-4971A4E23378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C111A4-991A-795D-73B1-4971A4E23378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
